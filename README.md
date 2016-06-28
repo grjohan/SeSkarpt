@@ -12,7 +12,7 @@ C# fast på svenska
 
 **bool** - bool
 
-**break** - avbrott
+**break** - bryt
 
 **byte** - byte
 
@@ -20,7 +20,7 @@ C# fast på svenska
 
 **catch** - fånga
 
-**char** - karaktär
+**char** - tecken
 
 **checked** - kollat
 
@@ -88,7 +88,7 @@ C# fast på svenska
 
 **new** - ny
 
-**null** - okänt
+**null** - null
 
 **object** -  objekt
 
@@ -116,13 +116,13 @@ C# fast på svenska
 
 **sbyte** - sbyte
 
-**sealed** - sluted
+**sealed** - sluten
 
 **short** - kort
 
-**sizeof** - storlekav
+**sizeof** - storlek
 
-**stackalloc** - stakallok
+**stackalloc** - stackallok
 
 **static** - statisk
 
@@ -130,7 +130,7 @@ C# fast på svenska
 
 **struct** - strukt
 
-**switch** - byt
+**switch** - välj
 
 **this** - denna
 
@@ -140,7 +140,7 @@ C# fast på svenska
 
 **try** - försök
 
-**typeof** - typav
+**typeof** - typ
 
 **uint** - oint
 
@@ -154,7 +154,7 @@ C# fast på svenska
 
 **using** - använd
 
-**virtual** - virituell
+**virtual** - virtuell
 
 **void** -  tom
 
@@ -186,7 +186,7 @@ C# fast på svenska
 
 **into** - som
 
-**join** - läggtill
+**join** - med
 
 **let** - låt
 
